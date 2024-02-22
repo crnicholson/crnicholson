@@ -13,3 +13,4 @@ My name is Charlie, and I love electrical engineering and programming.
 More info:
 - [LinkTree](https://linktr.ee/charlienicholson)
 - [QRZ bio](https://www.qrz.com/db/KC1SFR)
+- [My Stack](https://stackshare.io/charlienicholsonr/my-stack/main)
