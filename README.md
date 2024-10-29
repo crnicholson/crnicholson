@@ -2,6 +2,8 @@
 
 I'm Charlie, your friendly neighborhood aspiring electrical engineer and coding enthusiast. ⚡💻
 
+Right now, I'm looking for Summer research and interships opportunities. Contact me if you know someone!
+
 - 🔭 **Currently Building**: An autonomous glider named StratoSoar.
 - 👯 **Collaboration**: Eager to team up on exciting projects, especially high altitude balloons.
 - 📫 **Contact Me**: Reach out at charlienicholsonr@gmail.com.
@@ -32,7 +34,8 @@ I'm Charlie, your friendly neighborhood aspiring electrical engineer and coding 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### More Info:
-- 🕸️ [Personal website](https://cnicholson.vercel.app/) - My personal website!
+- 🕸️ [Personal website](https://crnicholson.com/) - My personal website!
+- 🌍 [LinkedIn](https://www.linkedin.com/in/charles-richard-nicholson/) - My LinkedIn profile!.
 - 🌐 [LinkTree](https://linktr.ee/charlienicholson) - All my links in one place.
 - 📻 [QRZ Bio](https://www.qrz.com/db/KC1SFR) - I'm also a ham radio enthusiast, call sign KC1SFR.
 
