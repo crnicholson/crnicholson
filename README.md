@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Charlie, your friendly neighborhood aspiring electrical engineer and coding enthusiast. ⚡💻
+I'm Charlie, an asipiring electrical engineer and coding enthusiast. ⚡💻
 
 Right now, I'm looking for Summer research and interships opportunities. Contact me if you know someone!
 
@@ -13,9 +13,6 @@ Right now, I'm looking for Summer research and interships opportunities. Contact
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crnicholson&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crnicholson&layout=donut&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=crnicholson&theme=tokyonight)](https://git.io/streak-stats)
-
-### 🔥 Recent Activity
-- **Coming soon** - a WIP!
 
 ### 🚀 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
