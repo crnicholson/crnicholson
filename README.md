@@ -1,3 +1,10 @@
+# welcome
+
+my name is charlie and i like to make things. recently i've been doing a lot of work on robotic and mechatronic systems, but i'm also enjoying working on the occasional industrial design project or [interactive web design project](https://v4.crnicholson.com). 
+
+when i'm not using my hands or making something, you can probably find me in nature, biking, or listening to music (checkout nujabes!).
+
+<!--
 ### Hey there! 👋
 
 I'm Charlie, an asipiring electrical engineer and coding enthusiast. ⚡💻
@@ -8,6 +15,7 @@ Right now, I'm looking for Summer research and interships opportunities. Contact
 - 👯 **Collaboration**: Eager to team up on exciting projects, especially high altitude balloons.
 - 📫 **Contact Me**: Reach out at charlienicholsonr@gmail.com.
 - 😄 **Pronouns**: he/him
+
 
 ### ⭐ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crnicholson&show_icons=true&theme=tokyonight)
@@ -35,4 +43,4 @@ Right now, I'm looking for Summer research and interships opportunities. Contact
 - 🌍 [LinkedIn](https://www.linkedin.com/in/charles-richard-nicholson/) - My LinkedIn profile!.
 - 🌐 [LinkTree](https://linktr.ee/charlienicholson) - All my links in one place.
 - 📻 [QRZ Bio](https://www.qrz.com/db/KC1SFR) - I'm also a ham radio enthusiast, call sign KC1SFR.
-
+-->
