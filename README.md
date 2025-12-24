@@ -4,6 +4,8 @@ my name is charlie and i like to make things. recently i've been doing a lot of 
 
 when i'm not using my hands or making something, you can probably find me in nature, biking, or listening to music (checkout nujabes!).
 
+ps. i had an internship this summer at [hack club](https://hackclub.com) and created [bitstream](https://bitstream.hackclub.com), a program that enables teenagers to create fpga programs using verilog. i'm also looking for future summer internships... hint hint. 
+
 <!--
 ### Hey there! 👋
 
