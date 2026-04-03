@@ -1,6 +1,6 @@
 # welcome
 
-my name is charlie and i like to make things. recently i've been doing a lot of work on robotic and mechatronic systems, but i'm also enjoying working on the occasional industrial design project or [interactive web design project](https://v4.crnicholson.com). 
+my name is charlie and i like to make things. recently i've been doing a lot of work on robotic and mechatronic systems, but i'm also enjoying working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). 
 
 when i'm not using my hands or making something, you can probably find me in nature, biking, or listening to [music](https://open.spotify.com/user/31ybjmvbe7siydivevnk37vditjq?si=ac83b431acf34aa3).
 
