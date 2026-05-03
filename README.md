@@ -2,6 +2,10 @@
 
 my name is charlie and i like to make things. recently i've been doing a lot of work on robotic and mechatronic systems, but i'm also enjoying working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). 
 
+my main project is [stratosoar](https://github.com/crnicholson/StratoSoar-MK3), a fully autonomous glider dropped from weather balloons. i developed it completely from scratch with full autopilot capabilities. custom 4-layer-circuit-board, c++ autopilot code, 3d printed + foam + cardbon fiber body, etc. 
+
+last spring/summer, i helped organize a 4-month-long hackathon called [apex](https://apex.hackclub.com). we had participants from three different countries come to boston to launch their projects on a high-altitude-balloon. participants had spent the prior 4 months building and developing projects to conduct research and experiments at 100,000 feet of altitude. 
+
 when i'm not using my hands or making something, you can probably find me in nature, biking, or listening to [music](https://open.spotify.com/user/31ybjmvbe7siydivevnk37vditjq?si=ac83b431acf34aa3).
 
 ps. i had an internship this summer at [hack club](https://hackclub.com) and created [bitstream](https://bitstream.hackclub.com), a program that enables teenagers to create fpga programs using verilog. i'm also looking for future summer internships... hint hint. 
