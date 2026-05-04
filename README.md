@@ -1,6 +1,6 @@
 # welcome
 
-my name is [charlie](https://crnicholson.com) and i like to make things. recently i've been doing a lot of work on hardware, robotic, and mechatronic systems, but i also enjoy working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). i also often find myself fighting for hardware advocacy or [helping teens](https://hackclub.com) learn how to code.
+my name is [charlie](https://crnicholson.com) and i like to make things. recently i've been doing a lot of work on hardware, software, and mechatronic systems, but i also enjoy working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). i also often find myself fighting for hardware advocacy or [helping teens](https://hackclub.com) learn how to code.
 
 my main project is [stratosoar](https://github.com/crnicholson/StratoSoar-MK3), a fully autonomous glider dropped from weather balloons. i developed it completely from scratch; custom 4-layer-circuit-board, c++ autopilot code, 3d printed + foam + cardbon fiber body, etc. backed by the [bagel fund](https://bagel.fund/). 
 
