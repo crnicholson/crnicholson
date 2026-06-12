@@ -1,14 +1,14 @@
-# welcome
+# Welcome
 
-my name is [charlie](https://crnicholson.com) and i like to make things. recently i've been doing a lot of work on hardware, software, and mechatronic systems, but i also enjoy working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). i also often find myself fighting for hardware advocacy or [helping teens](https://hackclub.com) learn how to code.
+My name is [Charlie](https://crnicholson.com) and I like to make things. Recently I've been doing a lot of work on hardware, software, and mechatronic systems, but I also enjoy working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). I also often find myself fighting for hardware advocacy or [helping teens](https://hackclub.com) learn how to code.
 
-my main project is [stratosoar](https://github.com/crnicholson/StratoSoar-MK3), a fully autonomous glider dropped from weather balloons. i developed it completely from scratch; custom 4-layer-circuit-board, c++ autopilot code, 3d printed + foam + carbon fiber body, etc. backed by the [bagel fund](https://bagel.fund/). 
+My main project is [StratoSoar](https://github.com/crnicholson/StratoSoar-MK3), a fully autonomous glider dropped from weather balloons. I developed it completely from scratch; custom 4-layer-circuit-board, C++ autopilot code, 3D printed + foam + carbon fiber body, etc. backed by the [Bagel Fund](https://bagel.fund/). 
 
-last spring/summer, i helped organize a 4-month-long hackathon called [apex](https://apex.hackclub.com). we had participants from three different countries come to boston to launch their projects on a high-altitude-balloon. participants had spent the prior 4 months building and developing projects to conduct research and experiments at 100,000 feet of altitude. 
+Last Spring/Summer, I helped organize a 4-month-long hackathon called [Apex](https://apex.hackclub.com). We had participants from three different countries come to Boston to launch their projects on a high-altitude-balloon. Participants had spent the prior 4 months building and developing projects to conduct research and experiments at 100,000 feet of altitude. 
 
-when i'm not using my hands or making something, you can probably find me in nature, biking, or listening to [music](https://open.spotify.com/user/31ybjmvbe7siydivevnk37vditjq?si=ac83b431acf34aa3).
+When I'm not using my hands or making something, you can probably find me in nature, biking, or listening to [music](https://open.spotify.com/user/31ybjmvbe7siydivevnk37vditjq?si=ac83b431acf34aa3).
 
-ps. i had an internship this summer at [hack club](https://hackclub.com) and created [bitstream](https://bitstream.hackclub.com), a program that enables teenagers to create fpga programs using verilog. i'm also looking for future summer internships... hint hint. 
+PS. I had an internship this Summer at [Hack Club](https://hackclub.com) and created [Bitstream](https://bitstream.hackclub.com), a program that enables teenagers to create FPGA programs using Verilog. I'm also looking for future Summer internships... hint hint. 
 
 <!--
 ### Hey there! 👋
