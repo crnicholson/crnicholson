@@ -2,6 +2,8 @@
 
 My name is [Charlie](https://crnicholson.com) and I like to make things. Recently I've been doing a lot of work on hardware, software, and mechatronic systems, but I also enjoy working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). I also often find myself fighting for hardware advocacy or [helping teens](https://hackclub.com) learn how to code.
 
+Currently interning here (GitHub) but I also work as a SWE at a stealth startup bringing intelligence to frontline workers. 
+
 My main project is [StratoSoar](https://github.com/crnicholson/StratoSoar-MK3), a fully autonomous glider dropped from weather balloons. I developed it completely from scratch; custom 4-layer-circuit-board, C++ autopilot code, 3D printed + foam + carbon fiber body, etc. backed by the [Bagel Fund](https://bagel.fund/). 
 
 Last Spring/Summer, I helped organize a 4-month-long hackathon called [Apex](https://apex.hackclub.com). We had participants from three different countries come to Boston to launch their projects on a high-altitude-balloon. Participants had spent the prior 4 months building and developing projects to conduct research and experiments at 100,000 feet of altitude. 
