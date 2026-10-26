@@ -1,5 +1,17 @@
 # Welcome
 
+My name is [Charlie](https://crnicholson.com) and I like to make things.
+
+Currently building directed energy microwave beams to shoot down drones. 
+
+Previously:
+* Interned at GitHub (here lol)
+* Worked as a SWE bringing intelligence to frontline workers
+* Interned at Hack Club, [teaching teens how to program FPGAs](https://bitstream.hackclub.com)
+* Organized a [hackathon in (near) space](https://apex.hackclub.com)
+* Spent 3 years making an [open source glider](https://github.com/crnicholson/StratoSoar-MK3) dropped from weather balloons
+
+<!--
 My name is [Charlie](https://crnicholson.com) and I like to make things. Recently I've been doing a lot of work on hardware, software, and mechatronic systems, but I also enjoy working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). I also often find myself fighting for hardware advocacy or [helping teens](https://hackclub.com) learn how to code.
 
 Currently interning here (GitHub) but I also work as a SWE at a stealth startup bringing intelligence to frontline workers. 
@@ -11,6 +23,7 @@ Last Spring/Summer, I helped organize a 4-month-long hackathon called [Apex](htt
 When I'm not using my hands or making something, you can probably find me in nature, biking, or listening to [music](https://open.spotify.com/user/31ybjmvbe7siydivevnk37vditjq?si=ac83b431acf34aa3).
 
 PS. I had an internship this Summer at [Hack Club](https://hackclub.com) and created [Bitstream](https://bitstream.hackclub.com), a program that enables teenagers to create FPGA programs using Verilog. I'm also looking for future Summer internships... hint hint. 
+-->
 
 <!--
 ### Hey there! 👋
