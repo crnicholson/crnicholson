@@ -2,7 +2,7 @@
 
 My name is [Charlie](https://crnicholson.com) and I like to make things. 
 
-Currently building directed energy microwave beams to shoot down drones. 
+Currently building directed-energy microwave beams to shoot down drones. 
 
 Previously:
 * Interned at GitHub (here lol)
