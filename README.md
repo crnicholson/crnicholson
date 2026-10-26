@@ -1,15 +1,20 @@
 # Welcome
 
-My name is [Charlie](https://crnicholson.com) and I like to make things.
+My name is [Charlie](https://crnicholson.com) and I like to make things. 
 
 Currently building directed energy microwave beams to shoot down drones. 
 
 Previously:
 * Interned at GitHub (here lol)
 * Worked as a SWE bringing intelligence to frontline workers
-* Interned at Hack Club, [teaching teens how to program FPGAs](https://bitstream.hackclub.com)
+* Interned at Hack Club, [teaching teens how to program FPGAs](https://bitstream.hackclub.com) and [control robotic fingers using nerve signals](https://hackfinger.hackclub.com)
 * Organized a [hackathon in (near) space](https://apex.hackclub.com)
 * Spent 3 years making an [open source glider](https://github.com/crnicholson/StratoSoar-MK3) dropped from weather balloons
+
+I also enjoy:
+* Learning about random, disparate topics
+* Running, cycling, and other endurance sports
+* All sorts of design
 
 <!--
 My name is [Charlie](https://crnicholson.com) and I like to make things. Recently I've been doing a lot of work on hardware, software, and mechatronic systems, but I also enjoy working on the occasional industrial design project or [interactive web design project](https://v3.crnicholson.com). I also often find myself fighting for hardware advocacy or [helping teens](https://hackclub.com) learn how to code.
